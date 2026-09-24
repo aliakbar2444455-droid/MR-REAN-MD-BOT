@@ -1,0 +1,10 @@
+node_modules/
+.env
+.env.*
+!.env.example
+*.zip
+*.log
+GlobalMedia/
+kingbadboitimewisher/pairing/*
+!kingbadboitimewisher/pairing/.gitkeep
+.DS_Store
